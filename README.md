@@ -2,6 +2,7 @@
 <h1>Hi there 👋 | I'm Favour O. </h1>
 <h3>I'm a software guy, with interest in AI </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FavourOyewumi7&label=Profile%20views&color=0e75b6&style=flat" alt="FavourOyewumi7" /> </p>
 
 -💬 Ask me about FrontEnd Web, Python, SQL.
 
