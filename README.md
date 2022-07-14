@@ -16,6 +16,8 @@
 <img align="left" alt="Favour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FavourOyewumi7&count_private=true&show_icons=true&theme=dark&line_height=40&hide=contribs"/>
 
 <img  alt="Favour's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FavourOyewumi7&layout=compact&count_private=true&show_icons=true&theme=dark&line_height=30"/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FavourOyewumi7&" alt="FavourOyewumi7" /></p>
 <!--
 **FavourOyewumi7/FavourOyewumi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
