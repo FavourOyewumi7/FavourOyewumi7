@@ -2,16 +2,8 @@
 <h1>Hi there 👋 | I'm Favour O. </h1>
 <h3>I'm a software guy, with interest in AI </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FavourOyewumi7&label=Profile%20views&color=0e75b6&style=flat" alt="FavourOyewumi7" /> </p>
 
--💬 Ask me about FrontEnd Web, Python, SQL.
-
--📫 How to reach me: [<img src='https://img.icons8.com/fluency/48/000000/gmail-new.png' alt='gmail' height='18'>](mailto:oyewumifavour65@gmail.com), [<img src='https://img.icons8.com/color/48/000000/twitter--v1.png' alt='twitter' height='18'>](https://twitter.com/ayomideif), [<img src='https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png' alt='LinkedIn' height='18'>](https://www.linkedin.com/in/favour-oyewumi-3610731a6/)
-
--😄 Pronouns: He/Him.
-
--⚡ Fun fact: I play the drums very well 🐱‍👤.
-
+Hey there! I'm a curious cat with a passion for exploring the world and learning new things. When I'm not busy tinkering with technology, you can find me out in nature, hiking or sitting among the trees and breathing fresh beautiful air. I'm a big foodie and love watching cooking vids, food channels on youtube and experimenting with different recipes in the kitchen. I'm also a bit of a gamer and enjoy getting lost in virtual worlds from time to time. Overall, I'm just a fun-loving person who enjoys the simple things in life and is always up for a good adventure!
 
 
 
