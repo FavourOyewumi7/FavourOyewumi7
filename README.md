@@ -13,9 +13,8 @@
 -⚡ Fun fact: I play the drums very well 🐱‍👤.
 
 
-<img align="left" alt="Favour's Github Stats" src="https://github-readme-stats.vercel.app/api?==
 
-==
+
 <!--
 **FavourOyewumi7/FavourOyewumi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
